@@ -1,5 +1,5 @@
 # 3D cube animation
--HTML
--CSS
+- HTML
+- CSS
 
-Can you view {my project}(panchenkonaz.github.io/3D__cube/)
+Can you view [my project](panchenkonaz.github.io/3D__cube/)
