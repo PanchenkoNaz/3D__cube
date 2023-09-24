@@ -1,3 +1,5 @@
-# 3D__cube
+# 3D cube animation
+-HTML
+-CSS
 
-https://panchenkonazar.github.io/3D__cube/
+Can you view {my project}(panchenkonaz.github.io/3D__cube/)
