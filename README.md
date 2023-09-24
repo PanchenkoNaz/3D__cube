@@ -2,4 +2,4 @@
 - HTML
 - CSS
 
-Can you view [my project](panchenkonaz.github.io/3D__cube/)
+Can you view [my project](https://panchenkonaz.github.io/3D__cube/)
